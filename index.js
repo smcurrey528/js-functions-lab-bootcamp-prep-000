@@ -1,7 +1,5 @@
 // write your code below!
-var
-
-function sayhappyHolidays() {
+function say(happyHolidays) {
   console.log('Happy Holidays')
 }
 function say(happyHolidaysTo, firstName) {
