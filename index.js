@@ -1,7 +1,7 @@
 // write your code below!
 function happyHolidays () {
-  console.log('Happy Holidays');
-  return "Happy Holidays!";
+  console.log('Happy holidays');
+  return "Happy holidays!";
 }
 function say(happyHolidaysTo, firstName) {
   console.log ('${Happy holidays}, ${first name}!')
