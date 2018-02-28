@@ -4,3 +4,4 @@ function sayhappyHolidays () {
 }
 function sayhappyHolidaysto (firstname) {
   console.log ('Happy holidays, ${first name}!')
+}
