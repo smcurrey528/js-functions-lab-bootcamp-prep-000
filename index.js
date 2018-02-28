@@ -3,8 +3,8 @@ function happyHolidays () {
   console.log('Happy holidays');
   return "Happy holidays!";
 }
-function happyHolidayTo (firstName) {
-  console.log ('${Happy holidays}, ${first name}!');
+function happyHolidaysTo (name) {
+  console.log ('${Happy holidays}, ${name}!');
   return `Happy ${holiday}, ${name}!`;
 }
 function say(holidayCountdown) {
