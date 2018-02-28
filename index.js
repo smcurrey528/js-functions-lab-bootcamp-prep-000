@@ -1,6 +1,6 @@
 // write your code below!
-function say(greeting) {
-  console.log ('Happy holidays!')
+function sayhappyHolidays() {
+  console.log("Happy Holidays!")
 }
 function say(happyHolidaysTo, firstName) {
   console.log ('${Happy holidays}, ${first name}!')
