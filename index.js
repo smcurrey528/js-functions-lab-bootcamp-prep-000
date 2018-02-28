@@ -3,4 +3,4 @@ function sayhappyHolidays () {
   console.log ('Happy holidays!')
 }
 function sayhappyHolidaysto (firstname) {
-  
+  console.log 
