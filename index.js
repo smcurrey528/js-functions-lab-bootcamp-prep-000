@@ -2,7 +2,7 @@
 function say (happyHolidays) {
   console.log ('Happy holidays!')
 }
-function say (happyHolidaysTofirstname) {
+function say (happyHolidaysTo, firstName) {
   console.log ('Happy holidays, ${first name}!')
 }
 function holidayCountdown () {
